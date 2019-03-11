@@ -1,11 +1,16 @@
 The rainbow and the unicorn and one pony
+<<<<<<< HEAD
 Ponies ????
 
+=======
+This line was added in my laptop
+>>>>>>> 018b9703a0265274cd1c95af0c9444c9d6da33cf
 
 Purple
 Pink
 Orange
 Blue
+Orchid
 Yellow
 Unicorn
 Green
