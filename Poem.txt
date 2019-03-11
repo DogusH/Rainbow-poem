@@ -1,5 +1,10 @@
 The rainbow and the unicorn and one pony
+<<<<<<< HEAD
 This line was added in my laptop
+=======
+Ponies ????
+
+>>>>>>> dfdf3a75802ea3d7abe8f449fd6decc9c195d98d
 
 Purple
 Pink
