@@ -1,6 +1,12 @@
 The rainbow and the unicorn and one pony
+<<<<<<< HEAD
 Ponies ????
 This time it'll work!!!
+=======
+This line was added in my laptop
+Ponies ???
+
+>>>>>>> 2e120992825b4bdbf08d23430368c8fd50030102
 
 Purple
 Pink
